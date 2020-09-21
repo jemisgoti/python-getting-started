@@ -1,3 +1,7 @@
 django
 gunicorn
 django-heroku
+pyaes
+pyasn1
+rsa
+Telethon
